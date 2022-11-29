@@ -1,0 +1,58 @@
+@charset "utf-8";
+.container .container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: url(images/log.png);
+}
+.container-fluid.card-footer {
+    background-image: -webkit-linear-gradient(270deg,rgba(29,33,224,1.00) 16.58%,rgba(232,224,20,1.00) 51.30%);
+    background-image: -moz-linear-gradient(270deg,rgba(29,33,224,1.00) 16.58%,rgba(232,224,20,1.00) 51.30%);
+    background-image: -o-linear-gradient(270deg,rgba(29,33,224,1.00) 16.58%,rgba(232,224,20,1.00) 51.30%);
+    background-image: linear-gradient(180deg,rgba(29,33,224,1.00) 16.58%,rgba(232,224,20,1.00) 51.30%);	
+}
+
+body {
+}
+
+body p {
+    background-color: #4654F3;
+    background-image: -webkit-linear-gradient(270deg,rgba(230,230,233,1.00) 72.03%,rgba(255,174,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(230,230,233,1.00) 72.03%,rgba(255,174,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(230,230,233,1.00) 72.03%,rgba(255,174,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(230,230,233,1.00) 72.03%,rgba(255,174,0,1.00) 100%);
+}
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,13,255,1.00) 17.62%,rgba(21,33,255,1.00) 21.76%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,13,255,1.00) 17.62%,rgba(21,33,255,1.00) 21.76%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,13,255,1.00) 17.62%,rgba(21,33,255,1.00) 21.76%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,13,255,1.00) 17.62%,rgba(21,33,255,1.00) 21.76%,rgba(255,255,255,1.00) 100%);
+}
+.container {
+    background-image: -webkit-linear-gradient(270deg,rgba(26,60,193,1.00) 33.16%,rgba(255,255,255,1.00) 49.75%,rgba(237,200,7,1.00) 62.69%,rgba(0,49,240,1.00) 85.49%);
+    background-image: -moz-linear-gradient(270deg,rgba(26,60,193,1.00) 33.16%,rgba(255,255,255,1.00) 49.75%,rgba(237,200,7,1.00) 62.69%,rgba(0,49,240,1.00) 85.49%);
+    background-image: -o-linear-gradient(270deg,rgba(26,60,193,1.00) 33.16%,rgba(255,255,255,1.00) 49.75%,rgba(237,200,7,1.00) 62.69%,rgba(0,49,240,1.00) 85.49%);
+    background-image: linear-gradient(180deg,rgba(26,60,193,1.00) 33.16%,rgba(255,255,255,1.00) 49.75%,rgba(237,200,7,1.00) 62.69%,rgba(0,49,240,1.00) 85.49%);
+}
+.container {
+    background-color: #303BEB;
+}
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    background-image: -webkit-repeating-linear-gradient(270deg,rgba(228,220,9,0.49) 0%,rgba(232,224,20,0.49) 14.50%,rgba(225,225,235,1.00) 37.83%,rgba(31,31,205,1.00) 72.54%,rgba(225,225,235,1.00) 91.71%);
+    background-image: -moz-repeating-linear-gradient(270deg,rgba(228,220,9,0.49) 0%,rgba(232,224,20,0.49) 14.50%,rgba(225,225,235,1.00) 37.83%,rgba(31,31,205,1.00) 72.54%,rgba(225,225,235,1.00) 91.71%);
+    background-image: -o-repeating-linear-gradient(270deg,rgba(228,220,9,0.49) 0%,rgba(232,224,20,0.49) 14.50%,rgba(225,225,235,1.00) 37.83%,rgba(31,31,205,1.00) 72.54%,rgba(225,225,235,1.00) 91.71%);
+    background-image: repeating-linear-gradient(180deg,rgba(228,220,9,0.49) 0%,rgba(232,224,20,0.49) 14.50%,rgba(225,225,235,1.00) 37.83%,rgba(31,31,205,1.00) 72.54%,rgba(225,225,235,1.00) 91.71%);
+}
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+}
+body {
+    background-image: -webkit-linear-gradient(270deg,rgba(8,13,252,1.00) 34.72%,rgba(255,214,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(8,13,252,1.00) 34.72%,rgba(255,214,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(8,13,252,1.00) 34.72%,rgba(255,214,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(8,13,252,1.00) 34.72%,rgba(255,214,0,1.00) 100%);
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler .navbar-toggler-icon {
+    background-color: #E5A709;
+    background-image: -webkit-linear-gradient(270deg,rgba(16,0,155,1.00) 18.13%,rgba(249,202,1,1.00) 75.13%);
+    background-image: -moz-linear-gradient(270deg,rgba(16,0,155,1.00) 18.13%,rgba(249,202,1,1.00) 75.13%);
+    background-image: -o-linear-gradient(270deg,rgba(16,0,155,1.00) 18.13%,rgba(249,202,1,1.00) 75.13%);
+    background-image: linear-gradient(180deg,rgba(16,0,155,1.00) 18.13%,rgba(249,202,1,1.00) 75.13%);
+    color: #000000;
+}
